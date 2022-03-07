@@ -27,7 +27,7 @@ body {
   position: absolute;
   width: 2012px;
   height: 1229px;
-  left: -215px;
+  left: -2px;
   top: 70px;
 }
 
@@ -149,13 +149,21 @@ h1 {
   bottom: -69px;
 }
 
-.p-box {
+.mat-par {
   position: absolute;
   width: 700px;
   height: 352px;
   left: 610px;
   bottom: 407px;
   box-shadow: 0px 0px 38px rgba(0, 0, 0, 0.25);
+}
+
+.p-box {
+  position: absolute;
+  width: 700px;
+  height: 352px;
+  left: 0px;
+  top: 0px;
 }
 
 .materials {
@@ -191,5 +199,29 @@ h1 {
   height: 209px;
   left: -20px;
   top: 110px;
+  font-weight: bold;
+  font-size: 235px;
+  line-height: 244px;
 }
   
+.marsel-2 {
+  position: absolute;
+  width: 1104px;
+  height: 209px;
+  left: 1017px;
+  top: 110px;
+  font-weight: bold;
+  font-size: 235px;
+  line-height: 244px;
+}
+
+.marsel-second {
+  position: absolute;
+  width: 2052.5px;
+  height: 0px;
+  left: -50px;
+  top: 334px;
+}
+
+
+

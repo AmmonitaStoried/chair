@@ -5,5 +5,9 @@ body {
   background-color: white;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: 'objektiv-mk2';
+  font-family: "objektiv-mk2";
+}
+
+h1 {
+  font-family: "sans-sefir";
 }

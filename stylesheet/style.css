@@ -77,10 +77,11 @@ h3 {
   top: 404px;
 }
 
-.section-first {
+.section-second {
   position: relative;
   width: 100%;
   height: 1166px;
+  top: 1319px;
 }
 
 .pipes-img {

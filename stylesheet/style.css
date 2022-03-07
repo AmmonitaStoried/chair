@@ -76,3 +76,75 @@ h3 {
   left: 914px;
   top: 404px;
 }
+
+.section-first {
+  position: relative;
+  width: 100%;
+  height: 1166px;
+}
+
+.pipes-img {
+  position: absolute;
+  width: 1920px;
+  height: 1166px;
+}
+
+h1 {
+  font-family: "objektiv-mk2";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 345px;
+  line-height: 358px;
+  text-align: right;
+  text-transform: uppercase;
+  color: #FFF;
+}
+
+.materials-1 {
+  position: absolute;
+  width: 2221px;
+  height: 358px;
+  left: -939px;
+  bottom: 808px;
+}
+
+.materials-2 {
+  position: absolute;
+  width: 2221px;
+  height: 358px;
+  left: 1289px;
+  bottom: 808px;
+}
+
+.materials-3 {
+  position: absolute;
+  width: 2221px;
+  height: 358px;
+  left: -5px;
+  bottom: 526px;
+}
+
+.materials-4 {
+  position: absolute;
+  width: 2221px;
+  height: 358px;
+  left: -972px;
+  bottom: 230px;
+}
+
+.materials-5 {
+  position: absolute;
+  width: 2221px;
+  height: 358px;
+  left: 1256px;
+  bottom: 230px;
+}
+
+.materials-6 {
+  position: absolute;
+  width: 2221px;
+  height: 358px;
+  left: -42px;
+  bottom: -69px;
+}
+  

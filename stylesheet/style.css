@@ -7,3 +7,17 @@ body {
   -moz-osx-font-smoothing: grayscale;
   font-family: "objektiv-mk2";
 }
+
+.section-first {
+  position: relative;
+  width: 100%;
+  height: 1319em;
+}
+
+.corner {
+  position: absolute;
+  width: 1824em;
+  height: 1288em;
+  left: 1em;
+  top: 31em;
+}

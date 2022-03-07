@@ -2,7 +2,7 @@
 @import "font.css";
 
 body {
-  background-color: black;
+  background-color: white;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: 'objektiv-mk2';

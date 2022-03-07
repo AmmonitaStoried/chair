@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: "objektiv-mk2";
-  max-width: 1920px;
+  width: 1920px;
   position: center;
 }
 
@@ -28,7 +28,7 @@ body {
   position: absolute;
   width: 2012px;
   height: 1229px;
-  /*left: -2px;*/
+  left: -2px;
   top: 70px;
 }
 

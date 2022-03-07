@@ -1,20 +1,20 @@
 @font-face {
   font-family: objektiv-mk2;
-  /*font-style: normal;*/
-  scr: url(Objective-Regular.otf) format("otf");
+  font-style: normal;
+  src: url(Objective-Regular.otf) format("truetype");
   font-weight: 400;
 }
 
 @font-face {
   font-family: objektiv-mk2;
-  /*font-style: normal;*/
-  scr: url(Objective-Medium.otf) format("otf");
+  font-style: normal;
+  src: url(Objective-Medium.otf) format("truetype");
   font-weight: 500;
 }
 
 @font-face {
   font-family: objektiv-mk2;
-  /*font-style: normal;*/
-  scr: url(Objective-Bold.otf) format("otf");
+  font-style: normal;
+  src: url(Objective-Bold.otf) format("truetype");
   font-weight: 700;
 }

@@ -1,1 +1,9 @@
 @import 'reset.css';
+@import 'stylesheet/font.css';
+
+body {
+  background-color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: objektiv-mk2;
+}

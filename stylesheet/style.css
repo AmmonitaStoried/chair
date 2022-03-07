@@ -224,5 +224,185 @@ h1 {
   top: 334px;
 }
 
+.q-upper {
+  position: absolute;
+  width: 121px;
+  height: 108px;
+  left: 516px;
+  top: 434px;
+}
 
+p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 41px;
+  text-align: left;
+  text-transform: uppercase;
+}
 
+.q-beg {
+  text-align: center;
+  position: absolute;
+  width: 534px;
+  height: 41px;
+  left: 660px;
+  top: 501px;
+}
+  
+.q-extreme {
+  position: absolute;
+  width: 554px;
+  height: 41px;
+  left: 656px;
+  top: 542px;
+  letter-spacing: 0.097em;
+}
+  
+h4 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 62px;
+  text-align: center;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.quote {
+  position: absolute;
+  width: 162px;
+  height: 62px;
+  left: 855px;
+  top: 620px;
+}
+
+.least-1 {
+  position: absolute;
+  width: 175px;
+  height: 41px;
+  left: 658px;
+  top: 725px;
+  text-align: right;
+  text-transform: lowercase;
+}
+
+.artistic {
+  position: absolute;
+  width: 342px;
+  height: 50px;
+  left: 866px;
+  top: 719px;
+  font-size: 48px;
+  line-height: 50px;
+  letter-spacing: 0.32em;
+}
+
+.most-1 {
+  position: absolute;
+  width: 181px;
+  height: 41px;
+  left: 653px;
+  top: 803px;
+  text-align: right;
+  text-transform: lowercase;
+}
+
+.logical {
+  position: absolute;
+  width: 406px;
+  height: 50px;
+  left: 863px;
+  top: 797px;
+  font-size: 48px;
+  line-height: 50px;
+  letter-spacing: 0.39em;
+}
+
+.least-2 {
+  position: absolute;
+  width: 177px;
+  height: 41px;
+  left: 656px;
+  top: 881px;
+  text-align: right;
+  text-transform: lowercase;
+}
+
+.cosy {
+  position: absolute;
+  width: 334px;
+  height: 50px;
+  left: 866px;
+  top: 875px;
+  font-size: 48px;
+  line-height: 50px;
+  letter-spacing: 1.29em;
+}
+
+.most-2 {
+  position: absolute;
+  width: 181px;
+  height: 41px;
+  left: 653px;
+  top: 959px;
+  text-align: right;
+  text-transform: lowercase;
+}
+
+.mechanical {
+  position: absolute;
+  width: 399px;
+  height: 50px;
+  left: 863px;
+  top: 953px;
+  font-size: 48px;
+  line-height: 50px;
+}
+
+.breurer-first {
+  position: absolute;
+  width: 2052.5px;
+  height: 0px;
+  left: -66px;
+  top: 1200px;
+}
+
+.breurer-1 {
+  position: absolute;
+  width: 1210px;
+  height: 191.95px;
+  left: -75px;
+  top: 1222.05px;
+  font-weight: bold;
+  font-size: 235px;
+  line-height: 244px;
+  text-transform: uppercase;
+}
+
+.breurer-2 {
+  position: absolute;
+  width: 1210px;
+  height: 193px;
+  left: 1130px;
+  top: 1221px;
+  font-weight: bold;
+  font-size: 235px;
+  line-height: 244px;
+}
+
+.breurer-second {
+  position: absolute;
+  width: 2052.5px;
+  height: 0px;
+  left: -66px;
+  top: 1435px;
+}
+
+.q-lower {
+  position: absolute;
+  width: 121px;
+  height: 106px;
+  left: 1328px;
+  top: 1100px;
+}

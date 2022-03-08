@@ -413,7 +413,6 @@ h4 {
 
 .section-forth {
   position: relative;
-  width: 1920px;
   height: 1509px;
 }
 
@@ -435,5 +434,70 @@ h4 {
   font-weight: 500;
   font-size: 60px;
   line-height: 62px;
+  text-transform: uppercase;
+  asign: left;
+}
+
+
+.section-five {
+  position: relative;
+  width: 1920px;
+  height: 1112px;
+}
+
+.line-kandinsky {
+  position: absolute;
+  width: 1974px;
+  height: 1041.5px;
+  left: -21px;
+  bottom: 38px;
+}
+
+.kandinsky {
+  position: absolute;
+  width: 869px;
+  height: 1112px;
+  left: 790px;
+  bottom: 0px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.one-of {
+  position: absolute;
+width: 798px;
+height: 52px;
+left: 933px;
+bottom: 1021px;
+font-style: normal;
+font-weight: normal;
+font-size: 65px;
+line-height: 67px;
+text-transform: uppercase;
+}
+
+.naming {
+  position: absolute;
+  width: 831px;
+  height: 760px;
+  left: 934px;
+  top: 118px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 75px;
+  line-height: 77px;
+  text-transform: uppercase;
+}
+
+.honor-name {
+  position: absolute;
+  width: 828px;
+  height: 134px;
+  left: 932px;
+  bottom: 73px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 65px;
+  line-height: 67px;
+  letter-spacing: 0.04em;
   text-transform: uppercase;
 }

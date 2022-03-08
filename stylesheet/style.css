@@ -410,3 +410,30 @@ h4 {
   left: 1328px;
   top: 1100px;
 }
+
+.section-forth {
+  position: relative;
+  width: 1920px;
+  height: 1509px;
+}
+
+.chair2 {
+  position: absolute;
+  width: 1319.99px;
+  height: 1319.99px;
+  left: 2320.79px;
+  top: 111.48px;
+  transform: matrix(-1, -0.05, -0.05, 1, 0, 0);
+}
+
+.critics {
+  position: absolute;
+  width: 811px;
+  height: 558px;
+  left: 125px;
+  top: 398px;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 62px;
+  text-transform: uppercase;
+}

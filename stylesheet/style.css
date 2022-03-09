@@ -8,6 +8,7 @@ body {
   font-family: "objektiv-mk2";
   width: 1920px;
   position: center;
+  overflow: hidden;
 }
 
 .section-first {

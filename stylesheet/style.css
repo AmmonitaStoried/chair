@@ -429,8 +429,8 @@ h4 {
   position: absolute;
   width: 811px;
   height: 558px;
-  left: calc(50% - 811px/2 - 429.5px);
-  top: calc(50% - 558px/2 - 77.5px);
+  left: 125px;
+  top: 398px;
   font-style: normal;
   font-weight: 500;
   font-size: 60px;
